@@ -5,10 +5,7 @@
 I have experience in Javascript, MongoDB, Express Js, React Js, and Node Js, as well as other languages. Keeping my code maintainable, testable, and clean is important to me. I am very flexible, quick to learn, and I am always open to learning new technologies. I hope to utilize my knowledge, skills, dedication, and effort to help the organization meet and achieve its goals.
 
 ## Skills: 
-- MongoDb
-- Express JS
-- React JS
-- Node JS
+- MongoDb/Express JS/React JS/Node JS
 
 - 🔭 I’m currently working on own my Projects...... 
 - 🌱 I’m currently learning JavaScript, Python, C & C++.... 
