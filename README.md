@@ -11,6 +11,7 @@ I have experience in Javascript, MongoDB, Express Js, React Js, and Node Js, as 
 - #### Tools: Chrome DevTool, VS Code, GitHub, Figma.
 - #### Familiar: Google Map, MySQL
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shaykot43500)  
 
 - 🔭 I’m currently working on own my Projects...... 
 - 🌱 I’m currently learning JavaScript, Python, C & C++.... 
